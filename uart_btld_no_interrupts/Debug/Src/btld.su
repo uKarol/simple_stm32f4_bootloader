@@ -1,0 +1,5 @@
+btld.c:5:6:hal_independent_flash_unlock	0	static
+btld.c:19:6:hal_independent_erase_flash_sector	0	static
+btld.c:41:6:hal_independent_write_flash_32	0	static
+btld.c:62:6:hal_independent_write_flash_8	0	static
+btld.c:84:6:hal_independent_flash_lock	0	static
